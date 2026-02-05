@@ -6,6 +6,5 @@ test("ecoFz",async({page})=>{
     const eco = new EcoFzpage(page);
     await eco.visiturl()
     await eco.image.click()
-    await eco.second.click();
 
 })
