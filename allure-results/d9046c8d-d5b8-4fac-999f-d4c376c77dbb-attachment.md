@@ -1,0 +1,75 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e2]:
+  - generic [ref=e4]:
+    - generic [ref=e5]:
+      - generic [ref=e6]: FREE Delivery
+      - generic [ref=e8]: 7 Days Easy Returns
+      - generic [ref=e10]: Best Prices
+    - generic [ref=e11]:
+      - generic [ref=e12] [cursor=pointer]:
+        - img [ref=e13]
+        - generic [ref=e16]: Our Blog
+      - generic [ref=e17] [cursor=pointer]:
+        - img [ref=e18]
+        - generic [ref=e21]: Help Center
+      - generic [ref=e22] [cursor=pointer]:
+        - img [ref=e23]
+        - generic [ref=e25]: Sell on Snapdeal
+  - generic [ref=e26]:
+    - generic [ref=e27]:
+      - generic [ref=e28]:
+        - img [ref=e29]
+        - img [ref=e31]
+      - generic [ref=e40]:
+        - generic [ref=e43]:
+          - generic:
+            - img
+            - generic: Search for Brands & Products
+          - textbox [ref=e44]
+        - generic [ref=e45] [cursor=pointer]:
+          - img [ref=e46]
+          - generic [ref=e50]: Login
+        - generic [ref=e51] [cursor=pointer]:
+          - img [ref=e52]
+          - generic [ref=e58]: My Cart
+        - button "Download App" [ref=e59] [cursor=pointer]:
+          - img [ref=e60]
+          - generic [ref=e62]: Download App
+    - img [ref=e64]
+  - generic [ref=e69]:
+    - generic [ref=e70]:
+      - generic [ref=e71]:
+        - generic [ref=e72]: Payment
+        - img "payment cards" [ref=e74]
+      - generic [ref=e75]:
+        - paragraph [ref=e76]: Connect
+        - generic [ref=e77]:
+          - link "Snapdeal Facebook Page" [ref=e78]:
+            - /url: https://www.facebook.com/Snapdeal
+            - img "Snapdeal Facebook Page" [ref=e79]
+          - link "Snapdeal Twitter Page" [ref=e80]:
+            - /url: https://twitter.com/snapdeal
+            - img "Snapdeal Twitter Page" [ref=e81]
+          - link "Snapdeal Instagram Page" [ref=e82]:
+            - /url: https://instagram.com/snapdeal/
+            - img "Snapdeal Instagram Page" [ref=e83]
+          - link "Snapdeal Linkedin Page" [ref=e84]:
+            - /url: https://www.linkedin.com/company/snapdeal/
+            - img "Snapdeal Linkedin Page" [ref=e85]
+          - link "Snapdeal Youtube Page" [ref=e86]:
+            - /url: https://www.youtube.com/user/snapdeal
+            - img "Snapdeal Youtube Page" [ref=e87]
+          - link "Telegram" [ref=e88]:
+            - /url: https://t.me/sdwapp
+            - img "Telegram" [ref=e89]
+          - link "Whats App" [ref=e90]:
+            - /url: https://wa.me/918130222868?text=Hello%20Snapdeal,%20I%20need%20help
+            - img "Whats App" [ref=e91]
+    - generic [ref=e93]:
+      - generic [ref=e94]: Copyright © 2021, AceVector Limited. All Rights Reserved
+      - generic [ref=e95]:
+        - generic [ref=e96]: Made for Bharat
+        - img [ref=e97]
+```
